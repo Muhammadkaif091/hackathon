@@ -1,0 +1,126 @@
+/* body{
+    width: 100%;
+    height: auto;
+    margin: 0% auto;
+}
+.main{
+    width: 100%;
+    height: auto;
+    margin: 0% auto;
+}
+.logo{
+    width: 20%;
+    padding-left: 100px;
+}
+.head{
+    width: 60%;
+    height: auto;
+    display: flex;
+    background-color: gray;
+}
+
+nav{
+    width: 100%;
+}
+ul{
+    width: 100%;
+    height: auto;
+    justify-content: flex-end;
+}
+li{
+    width: 700%;
+    display: inline-block;
+    float: left;
+}
+.sidebar{
+    display: none;
+} */
+.collapse {
+    padding-left: 800px !important;
+}
+.contact{
+    width: 100%;
+    height: auto;
+}
+.left{
+    width: 50%;
+    height: 600px;
+    float: left;
+    margin: 0% auto;
+    padding-top: 200px;
+    padding-left: 50px;
+}
+.bold{
+    width: 500px;
+    padding-left: 50px;
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    animation-name: heartBeat ;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+.text{
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    line-height: 30px;
+    animation-name: backInLeft;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+button{
+    width: 300px;
+    height: 50px;
+    border: 2px solid rgb(129, 119, 119);
+    border-radius: 50%;
+    background-color: transparent;
+    animation-name: jello;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+.right{
+    width: 50%;
+    height: auto;
+    float: right;
+}
+.maincontact{
+    width: 100%;
+    height: auto;
+    margin: 10px;
+}
+.contactright{
+    width: 50%;
+    height: 600px;
+    float: right;
+    margin: 0% auto;
+    padding-top: 200px;
+    padding-left: 10px;
+}
+.bold1{
+    width: 500px;
+    padding-left: 30px;
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.text1{
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    line-height: 30px;
+}
+.contactleft{
+    width: 50%;
+    height: auto;
+    float: left;
+}
+.textbetween{
+    width: 100%;
+    height: 100px;
+}
+.DESIGNS{
+    width: 50%;
+    margin: 0% auto;
+    background-color: red;
+}
